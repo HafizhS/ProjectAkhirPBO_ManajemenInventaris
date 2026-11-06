@@ -1,6 +1,6 @@
 
 
-# DATABASE https://drive.google.com/open?id=1Y4dfhJ3sQ9NlWmahADj73QJ6DyH8tc39
+# DATABASE https://herlangga666.github.io
 # ProjectAkhirPBO
 
 Project Akhir PBO Manajemen Inventaris
